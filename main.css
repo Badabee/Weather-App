@@ -21,6 +21,9 @@
     padding-left: 4rem;
 }
 
-.searchbar {
-    background-image: url(icons/aerial-photo-of-mountain-surrounded-by-fog-733174.jpg);
+.searchbar .photo{
+    background-image: url("icons/aerial-photo-of-mountain-surrounded-by-fog-733174.jpg");
+    background-position: center;
+    background-repeat: none;
+
 }
