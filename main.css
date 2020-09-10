@@ -5,22 +5,22 @@
 }
 
 .menu {
-    height: 20vh;
+    height: 10vh;
     border: 2px solid red;
 }
 
-div .menus{
-    margin-top: 15%;
-    border: 2px solid red;
+.menus ul {
     display: flex;
-}
-
-#grow{
-    color: white;
-    text-decoration: none;
+    float: right;
+    padding-top: 2%;
+    margin-right: 2%;
+    list-style-type: none;
 }
 
 .menubar {
-    border-radius: ;
-    border-color: blue;
+    padding-left: 4rem;
+}
+
+.searchbar {
+    background-image: url(icons/aerial-photo-of-mountain-surrounded-by-fog-733174.jpg);
 }
