@@ -19,11 +19,41 @@
 
 .menubar {
     padding-left: 4rem;
+    
 }
 
-.searchbar .photo{
-    background-image: url("icons/aerial-photo-of-mountain-surrounded-by-fog-733174.jpg");
+.searchbar .photo {
+    background-image: url("icons/coconut.jpg");
+    background-size: cover;
     background-position: center;
-    background-repeat: none;
+    height: 45vh;
+    width: 100%;
+}
 
+
+.searchbar .find {
+    width: 70%;
+    margin: auto;
+    margin-top: -12%;
+    border-radius: 20px;
+}
+
+#finder{
+    width: 91%;
+    margin: auto;
+    padding: 1.5%;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    background-color: #1e202b;
+}
+
+#findo{
+    background-color: #009ad8;
+    border-radius: 26px;
+    padding: 10px 19px;
+    color: white;
+    outline: none;
+    margin-top: -40%;
 }
