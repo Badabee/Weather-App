@@ -6,7 +6,6 @@
 
 .menu {
     height: 10vh;
-    border: 2px solid red;
 }
 
 .menus ul {
@@ -18,28 +17,28 @@
 }
 
 .menubar {
-    padding-left: 4rem;
-    
+    padding-left: 4rem;  
 }
 
 .searchbar .photo {
     background-image: url("icons/coconut.jpg");
     background-size: cover;
     background-position: center;
-    height: 45vh;
+    height: 55vh;
     width: 100%;
 }
 
 
 .searchbar .find {
-    width: 70%;
+    width: 80%;
     margin: auto;
-    margin-top: -12%;
+    margin-top: -18%;
     border-radius: 20px;
+    
 }
 
-#finder{
-    width: 91%;
+#finder {
+    width: 80%;
     margin: auto;
     padding: 1.5%;
     color: white;
@@ -49,11 +48,13 @@
     background-color: #1e202b;
 }
 
-#findo{
+#findo {
     background-color: #009ad8;
     border-radius: 26px;
-    padding: 10px 19px;
+    padding: 12px 28px;
     color: white;
     outline: none;
-    margin-top: -40%;
+    border: none;
+    float: right;
+    margin-right: 5px;
 }
